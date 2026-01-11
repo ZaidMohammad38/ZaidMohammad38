@@ -7,9 +7,9 @@
 ---
 
 ## 🚀 About Me
-I am an Electrical & Electronics Engineering graduate with a strong interest in software development.  
-I have hands-on experience in web development and a solid foundation in Java.  
-Currently, I am upskilling myself in backend development using Spring.
+Java-focused fresher with a strong foundation in core Java and hands-on experience in web development.  
+Comfortable building clean UIs and currently transitioning into backend development using Spring.  
+Actively seeking entry-level Java / Full Stack opportunities.
 
 ---
 
@@ -33,22 +33,36 @@ Currently, I am upskilling myself in backend development using Spring.
 
 ---
 
+## 🧰 Skills
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Basics-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-Learning-6DB33F?style=flat&logo=spring&logoColor=white)
+
+---
+
 ## 📂 Projects
 
 ### 🎓 Student Training Management System
 - Built using **HTML, CSS, and JavaScript**
-- Implements user authentication and form validation
-- Dashboard developed using **localStorage**
-- Focused on real-world frontend logic and data handling
+- User authentication and form validation
+- Dashboard implemented using **localStorage**
+- Emphasis on real-world frontend logic and data handling
 
 ### 🌐 Portfolio Website
-- Personal portfolio built using **HTML & CSS**
+- Built using **HTML & CSS**
 - Showcases skills, projects, and contact information
-- Clean and responsive UI design
+- Fully responsive layout
 
 ### 🎧 Wispr Clone
-- UI clone developed using **CSS**
-- Practiced layouts, styling, and responsiveness
+- UI clone built using **CSS**
+- Focused on layout, styling, and responsiveness
 
 ---
 
@@ -59,12 +73,14 @@ Currently, I am upskilling myself in backend development using Spring.
 ---
 
 ## 📈 What I'm Working On
-- Strengthening backend development skills
-- Building Java-based backend applications
-- Improving Git & GitHub workflows
-- Developing real-world projects
+- Java backend fundamentals
+- Spring-based application development
+- Writing clean, maintainable code
+- Improving Git & GitHub workflow
 
 ---
+
+
 
 ## 🤝 Connect With Me
 - 💼 LinkedIn: [Zaid Mohammad](https://www.linkedin.com/in/zaid-mohammad-84a673325)
@@ -72,4 +88,4 @@ Currently, I am upskilling myself in backend development using Spring.
 
 ---
 
-⭐ *Continuously learning and building. Open to entry-level opportunities and collaborations.*
+⭐ *Open to entry-level Java / Full Stack roles. Ready to learn, build, and contribute.*
