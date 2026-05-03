@@ -173,7 +173,7 @@ $ git log --oneline --current-focus
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/zaidmohammad/zaidmohammad/output/github-contribution-grid-snake-dark.svg" width="95%" />
+<img src="https://raw.githubusercontent.com/ZaidMohammad38/ZaidMohammad38/output/github-contribution-grid-snake-dark.svg" width="95%" />
 </div>
 
 ---
